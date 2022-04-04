@@ -1,0 +1,12 @@
+{
+  "name": "rambo-project",
+  "version": "1.0.0",
+  "description": "This is the Experimental version of Robotic programming using Python 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Python","Robotic Programming"],
+  "author": "Myo Aung",
+  "license": "MIT"
+}
